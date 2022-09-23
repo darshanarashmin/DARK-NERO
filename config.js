@@ -31,20 +31,20 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg ="HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️"
+global.alivemsg ="HI I'M  ⚜️𝙳𝙰𝚁𝙰𝙺 𝙳𝙰𝚁𝙰𝚈𝙰 𝙱𝙾𝚃⚜️"
                      
 global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
-global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ytchannel = 'https://youtu.be/B1ri-AFU5hU'
+global.ownername = " ❤️𝙳𝙰𝚁𝚂𝙷𝙰𝙽𝙰❤️ " //ur owner name
+global.owner = ['94766021497','']
+global.premium = ['94766021497','94766021497']
+global.botname = '𝙳⃝𝙰𝚁𝙺 𝙳⃟𝙰𝚁𝙰𝚈𝙰 𝙼⃝𝙳'
+global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙳⃟𝙰𝚁𝙰𝚈𝙰 𝙼⃝𝙳'
+global.group1 = 'https://chat.whatsapp.com/J7iS5tNsX6J6TMgEwUcNHp'
+global.group2 = 'https://chat.whatsapp.com/HB7xtQRZfoQL1Avw6GYMMS'
+global.packname = '𝙳⃝𝙰𝚁𝙺 𝙳⃟𝙰𝚁𝙰𝚈𝙰 𝙼⃝𝙳'
+global.ytchannel = 'https://chat.whatsapp.com/HB7xtQRZfoQL1Avw6GYMMS'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -56,8 +56,8 @@ global.dripstyping = false
 global.dripsreadgroup = false
 global.dripsreadall = false
 global.dripsrecord = false
-global.available = false
-global.unavailable = true
+global.available = true
+global.unavailable = false
 global.limittot = 100,
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -65,7 +65,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.author = '𝙳⃝𝙰𝚁𝙺 D⃟ARAYA 𝙼⃝𝙳'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
